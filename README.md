@@ -28,6 +28,7 @@ Comandos del bot
 !leones
 !luisa
 !miag
+!moleculas
 !noo
 !nuevo
 !peor
