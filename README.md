@@ -8,6 +8,7 @@ Comandos del bot
 !carlosmivida
 !cortoya
 !crispin
+!cuervo
 !delfin
 !delfin2
 !delfin3
@@ -42,6 +43,7 @@ Comandos del bot
 !tongo2
 !trabajar
 !veneno
+!vente
 !verga
 !vino
 !yaha
